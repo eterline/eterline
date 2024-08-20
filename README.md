@@ -25,6 +25,8 @@
 <div>
   <H2>Most usage OS:</H2>
   <img alt="Archlinux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-  <u>I responsibly declare that I am not a programmer. I just want to finish the fucking pet-project.</u>
+  <br>
+  <u>I responsibly declare that I am not a programmer. 
+    <br>I just want to finish the fucking pet-project.</u>
 </div>
 <hr/>
