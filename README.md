@@ -5,5 +5,4 @@
   <a href="https://t.me/EternalLine">
      <img width="64" alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png">
   </a>
-  <iframe src="https://giphy.com/embed/EuMes40JZirYe18nYY" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/amandabatistacriativos-social-telegram-rede-EuMes40JZirYe18nYY">via GIPHY</a></p>
 </div>
