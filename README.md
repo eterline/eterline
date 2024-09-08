@@ -27,6 +27,6 @@
   <img alt="Archlinux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
   <br>
   <u>I responsibly declare that I am not a programmer. 
-    <br>I just want to finish the fucking pet-project.</u>
+    <br>I just want to finish the fucking 'pet project'.</u>
 </div>
 <hr/>
