@@ -20,6 +20,10 @@
        <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </dd>
+    <dd>
+      <img alt="React" src="[https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)"> 
+       <img alt="TypeScript" src="[https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)">
+    </dd>
   </dl>
 </div>
 <div>
