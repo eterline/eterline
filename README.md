@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=4000&pause=600&color=BA96F7&background=FFFFFF00&width=435&lines=Hello!+I'm+Andrew;System+Administrator;Self-hosting+is+my+passion" alt="Typing SVG" />
   </a>
   
-  <br/>
-  
   <a href="https://t.me/eterlined">
     <img width="64" alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
   </a>
